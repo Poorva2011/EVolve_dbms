@@ -1,5 +1,5 @@
 # EVolve_dbms
-Electriv vehicle management system using sql and javaswing
+Electric vehicle management system using sql and javaswing
 
 ADMIN operations:
 1. Manage charging stations(updation)
